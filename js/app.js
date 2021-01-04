@@ -41,4 +41,4 @@ alert('I live in Ajloun and I am 23, I am Jordanian my favourite color is Yellow
 alert('now it is your turn!');
 var username = prompt('what about you name, dear ?');
 document.write(' dear '+ username + ' you are more than welcome to my web site');
-alert(username + ' have a nice day');
+alert(username + ' have a nice day ');
