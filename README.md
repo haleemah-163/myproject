@@ -14,4 +14,4 @@ about me guessing game
 ##### Reflections and Comments
 ##### first journal, submission questions, tools and resources used and learned
 *it was really good ,To be honest I didn't expect it would take me more than two hours,but even it had taken 4 hours of thinking, trying , reading and getting help from the nice TAs; it was fun and i feel happy when i see my work* 
-*I have no more questions until now and everything is good*
+*for today, it was a little bit confusing because i added  code which combines loops with if statement at the same time, sometimes when i run the code i get a good results, but many times i don't get the same result even if i did't change the code and checked every single line to see if there are any mistakes. but it's fine, i'm sure i can handle it next times*
