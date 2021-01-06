@@ -1,5 +1,5 @@
 'use strict'
-var score ;
+var score = 0 ;
 function q1(){
 var pplace = prompt('do you think I live in Amman?');
 switch (pplace.toLowerCase()) {
