@@ -106,16 +106,15 @@ score = score + 1 ;
 }
 q4();
 
-// console.log('I live in Ajloun and I am 23, I am Jordanian my favourite color is Yellow and I finished my degree in engineering');
+
 alert('I live in Ajloun and I am 23, I am Jordanian my favourite color is Yellow and I finished my degree in engineering');
 alert('now it is your turn!');
 var username = prompt('what about you name, dear ?');
 document.write(' dear '+ username + ' you are more than welcome to my web site');
 alert(username + ' have a nice day ');
 
-//  {[[]] lab 3 ; extend my "about me" project[[]]}
 
-//var score = 0 ;
+
 var psleep ;
 function q6(){
 for (let i = 4; i > 0 ; i--) {

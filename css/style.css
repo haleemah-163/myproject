@@ -1,0 +1,23 @@
+main{
+    background: #d6a6a6;
+    height: 100%;
+}
+footer{
+    background-color: #d6a6a6;
+}
+.item-box{
+    width: 200px;
+ 
+   margin-left: 10px;
+}
+.item-b{
+    width: 200px;
+    
+    margin-left: 60px;
+}
+.item{
+    width: 200px;
+    
+    margin-left: 100px;
+
+}
